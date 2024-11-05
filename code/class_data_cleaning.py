@@ -25,8 +25,6 @@ def parse_table(table, keywords=None):
 
     # Create a DataFrame from the rows
     df = pd.DataFrame(rows)
-    # # The first row with headers is used as DataFrame columns
-    # df = pd.DataFrame(rows[1:], columns=rows[0])
 
     # For each keyword, find the row index and extract the next 25 rows if the keyword is found
     for keyword in keywords:
