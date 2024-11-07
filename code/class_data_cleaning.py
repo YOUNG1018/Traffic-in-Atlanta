@@ -6,6 +6,7 @@ from bs4 import BeautifulSoup
 DATA_FOLDER = '../data/class_raw/'
 SAVE_FOLDER = '../data/data_processed/'
 PARSE_KEYWORDS = ['All Eastbound', 'All Westbound', 'All Northbound', 'All Southbound']
+PROCESS_ALL = False
 
 
 def parse_table(table, keywords=None):
@@ -109,6 +110,10 @@ def main():
     for site_folder in os.listdir(DATA_FOLDER):
         # Skip hidden files or folders
         if site_folder.startswith('.'):
+            continue
+        # Skip if the folder has already been processed
+        if not PROCESS_ALL and os.path.exists(os.path.join(SAVE_FOLDER, site_folder, 'class')):
+            print(f"Site folder already processed: {site_folder}")
             continue
         process_site_folder(site_folder)
 
