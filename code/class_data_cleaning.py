@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 DATA_FOLDER = '../data/class_raw/'
 SAVE_FOLDER = '../data/data_processed/'
 PARSE_KEYWORDS = ['All Eastbound', 'All Westbound', 'All Northbound', 'All Southbound']
-PROCESS_ALL = False
+PROCESS_ALL = False  # Set to True to process all files, even if the output folder already exists
 
 
 def parse_table(table, keywords=None):
@@ -113,7 +113,7 @@ def main():
             continue
         # Skip if the folder has already been processed
         if not PROCESS_ALL and os.path.exists(os.path.join(SAVE_FOLDER, site_folder, 'class')):
-            print(f"Site folder already processed: {site_folder}")
+            # print(f"Site folder already processed: {site_folder}")
             continue
         process_site_folder(site_folder)
 
