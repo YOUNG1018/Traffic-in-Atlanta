@@ -31,12 +31,12 @@ function initializeViz(id, tableauUrl, widthPercentage) {
 }
 
 
-// Initialize all Tableau visualizations with specific settings
+// You may cumstomize the size to your vis here
 document.addEventListener('DOMContentLoaded', function () {
-    initializeViz('viz1732719356408', 'shared/5D8CFGWCC', 0.5); // Visualization 1 (50% width)
-    initializeViz('viz1732723493241', 'shared/NMMKGZX32', 0.75); // Visualization 2 (75% width)
-    initializeViz('viz1732722871550', 'Yixuan/Map_select', 0.6); // Visualization 3 (60% width)
-    initializeViz('viz1732723104838', 'Yixuan/089-3323', 0.4); // Visualization 4 (40% width)
-    initializeViz('viz1732724029433', 'Yixuan/121-5468', 0.9); // Visualization 5 (90% width)
+    initializeViz('viz1732719356408', 'shared/5D8CFGWCC', 0.5); // interactive map 1 - 50%
+    initializeViz('viz1732723493241', 'shared/NMMKGZX32', 0.75); // interactive map 2 -75%
+    initializeViz('viz1732722871550', 'Yixuan/Map_select', 0.6); 
+    initializeViz('viz1732723104838', 'Yixuan/089-3323', 0.4); 
+    initializeViz('viz1732724029433', 'Yixuan/121-5468', 0.9); 
 });
 
