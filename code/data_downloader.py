@@ -3,11 +3,15 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime, timedelta
 import time
+import os
 
-WAIT_TIME = 10  # seconds
+WAIT_TIME = 1  # seconds
+SITES = ["067-2373", "089-0644", "089-3236", "089-3323", "089-3385", "089-3438", "121-0456", "121-5114", "121-5468",
+         "121-5505", "121-5508", "121-5534", "121-5633", "121-6370", "121-9013"]
+DOWNLOAD_PATH = "/Users/chenyang/Downloads/data_downloads"
 
 
-def configure_driver(download_directory="."):
+def configure_driver(download_directory):
     """Configure and return a Chrome WebDriver instance with download options."""
     options = webdriver.ChromeOptions()
     options.add_experimental_option('prefs', {
@@ -61,9 +65,12 @@ def download_data(driver, site, start_date, end_date, data_type):
 
 def download_with_selenium(site, start_date, end_date, data_type):
     """Main function to download data using Selenium with the specified parameters."""
-    driver = configure_driver()
+    # Create site folder if it does not exist
+    os.makedirs(os.path.join("/Users/chenyang/Downloads/data_downloads", site), exist_ok=True)
+    driver = configure_driver(os.path.join(DOWNLOAD_PATH, site))
     try:
         download_data(driver, site, start_date, end_date, data_type)
+        time.sleep(10)
         print("All downloads completed.")
     finally:
         driver.quit()
@@ -72,9 +79,16 @@ def download_with_selenium(site, start_date, end_date, data_type):
 
 if __name__ == '__main__':
     # Define download parameters
-    site = "067-2373"
-    start_date = "2024-03-10"
-    end_date = "2024-03-18"
-    data_type = "speed"  # "class" or "speed"
+    for site in SITES:
+        start_date = "2024-02-18"
+        end_date = "2024-02-24"
+        data_type = "speed" # "class" or "speed"
 
-    download_with_selenium(site, start_date, end_date, data_type)
+        download_with_selenium(site, start_date, end_date, data_type)
+
+    for site in SITES:
+        start_date = "2024-07-21"
+        end_date = "2024-07-27"
+        data_type = "speed" # "class" or "speed"
+
+        download_with_selenium(site, start_date, end_date, data_type)
