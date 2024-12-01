@@ -24,7 +24,7 @@ body {
 /* 左侧文字样式 */
 .text {
     flex: 1;
-    margin: 0; /* 清除外边距 */
+    margin: 2%; /* 清除外边距 */
     display: flex;
     flex-direction: column; /* 内容垂直排列 */
     justify-content: center; /* 保证内容垂直居中 */
@@ -48,4 +48,17 @@ body {
 /* 控制图表宽度 */
 .tableauPlaceholder {
     width: 100%; /* 图表宽度占满父容器 */
+}
+/* 右侧图片样式 */
+.image {
+    flex: 2;
+    display: flex;
+    justify-content: center; /* 水平居中图片 */
+    align-items: center; /* 垂直居中图片 */
+}
+.image img {
+    max-width: 40%; /* 确保图片不会超出父容器宽度 */
+    height: auto; /* 按比例缩放图片 */
+    border-radius: 5px; /* 可选：圆角 */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
 }
