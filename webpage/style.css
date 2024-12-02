@@ -5,7 +5,27 @@ body {
     padding: 0;
     text-align: justify;
 }
+.header-image-container {
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+}
 
+.header-image-container img {
+    width: 100%;
+    height: auto;
+}
+
+.header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
 .container {
     display: flex;
     flex-direction: column;
