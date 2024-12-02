@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<title>Class Report 089-3236 Friday, July 26, 2024</title>
+<title>Class Report 089-3236 Saturday, August 3, 2024</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <style type="text/css">
 /*<![CDATA[*/
@@ -60,7 +60,7 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
 </head>
 <body class="fixed">
 <div id="wrapper">
-<b>Class Report 089-3236 Friday, July 26, 2024</b> <div id="container">
+<b>Class Report 089-3236 Saturday, August 3, 2024</b> <div id="container">
   <div id="content">
 <div class="panel panel-default">  <div class="panel-heading"><table>
   <tr><td>Site Name</td><td style='mso-number-format:"\@";' colspan=3>089-3236</td></tr>
@@ -102,454 +102,34 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
  </tr>
  <tr class="T">
   <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
-  <td>104</td>
+  <td>120</td>
   <td>0</td>
-  <td>89</td>
-  <td>13</td>
-  <td>0</td>
-  <td>2</td>
-  <td>0</td>
-  <td>0</td>
+  <td>107</td>
+  <td>10</td>
+  <td>1</td>
+  <td>1</td>
   <td>0</td>
   <td>0</td>
-  <td>0</td>
+  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>1.9</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.7</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
-  <td>53</td>
+  <td>84</td>
   <td>0</td>
-  <td>48</td>
-  <td>3</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>3.8</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
-  <td>47</td>
-  <td>0</td>
-  <td>43</td>
-  <td>3</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>2.1</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
-  <td>40</td>
-  <td>0</td>
-  <td>36</td>
-  <td>2</td>
-  <td>0</td>
-  <td>2</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>5.0</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
-  <td>57</td>
-  <td>0</td>
-  <td>45</td>
-  <td>11</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1.8</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
-  <td>118</td>
-  <td>0</td>
-  <td>99</td>
-  <td>17</td>
-  <td>0</td>
-  <td>1</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1.7</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
-  <td>375</td>
-  <td>0</td>
-  <td>303</td>
-  <td>64</td>
-  <td>2</td>
-  <td>4</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1.6</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
-  <td>770</td>
-  <td>0</td>
-  <td>676</td>
-  <td>67</td>
-  <td>1</td>
-  <td>11</td>
-  <td>4</td>
-  <td>0</td>
-  <td>10</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>3.4</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
-  <td>1022</td>
-  <td>0</td>
-  <td>863</td>
-  <td>119</td>
-  <td>1</td>
-  <td>19</td>
+  <td>74</td>
   <td>9</td>
   <td>0</td>
-  <td>10</td>
   <td>1</td>
   <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>3.8</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
-  <td>731</td>
-  <td>0</td>
-  <td>615</td>
-  <td>88</td>
-  <td>1</td>
-  <td>17</td>
-  <td>5</td>
-  <td>0</td>
-  <td>4</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>3.7</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
-  <td>756</td>
-  <td>0</td>
-  <td>613</td>
-  <td>111</td>
-  <td>0</td>
-  <td>23</td>
-  <td>4</td>
-  <td>0</td>
-  <td>5</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>4.2</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
-  <td>839</td>
-  <td>2</td>
-  <td>688</td>
-  <td>127</td>
-  <td>1</td>
-  <td>11</td>
-  <td>3</td>
-  <td>0</td>
-  <td>7</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>2.5</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
-  <td>969</td>
-  <td>0</td>
-  <td>819</td>
-  <td>120</td>
-  <td>0</td>
-  <td>19</td>
-  <td>0</td>
-  <td>0</td>
-  <td>10</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>3.0</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
-  <td>910</td>
-  <td>2</td>
-  <td>753</td>
-  <td>131</td>
-  <td>1</td>
-  <td>15</td>
-  <td>0</td>
-  <td>1</td>
-  <td>5</td>
-  <td>2</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>2.5</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
-  <td>863</td>
-  <td>0</td>
-  <td>731</td>
-  <td>109</td>
-  <td>1</td>
-  <td>13</td>
-  <td>0</td>
-  <td>0</td>
-  <td>8</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>2.4</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
-  <td>829</td>
-  <td>0</td>
-  <td>718</td>
-  <td>85</td>
-  <td>1</td>
-  <td>12</td>
-  <td>9</td>
-  <td>0</td>
-  <td>4</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>3.0</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
-  <td>866</td>
-  <td>1</td>
-  <td>756</td>
-  <td>95</td>
-  <td>1</td>
-  <td>10</td>
-  <td>2</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1.5</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
-  <td>931</td>
-  <td>2</td>
-  <td>820</td>
-  <td>90</td>
-  <td>1</td>
-  <td>13</td>
-  <td>0</td>
-  <td>0</td>
-  <td>4</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1.9</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
-  <td>812</td>
-  <td>0</td>
-  <td>718</td>
-  <td>79</td>
-  <td>1</td>
-  <td>9</td>
-  <td>0</td>
-  <td>0</td>
-  <td>4</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1.7</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
-  <td>737</td>
-  <td>1</td>
-  <td>673</td>
-  <td>59</td>
-  <td>1</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0.4</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
-  <td>527</td>
-  <td>1</td>
-  <td>477</td>
-  <td>44</td>
-  <td>0</td>
-  <td>4</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0.9</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
-  <td>402</td>
-  <td>1</td>
-  <td>362</td>
-  <td>33</td>
-  <td>1</td>
-  <td>4</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -563,33 +143,453 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>1.2</td>
  </tr>
  <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
-  <td>330</td>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td>58</td>
   <td>0</td>
-  <td>297</td>
+  <td>52</td>
+  <td>5</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.7</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td>34</td>
+  <td>0</td>
+  <td>32</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.9</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td>31</td>
+  <td>0</td>
   <td>27</td>
+  <td>4</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0.0</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td>53</td>
+  <td>0</td>
+  <td>44</td>
+  <td>5</td>
   <td>2</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>3.8</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td>117</td>
+  <td>0</td>
+  <td>90</td>
+  <td>22</td>
+  <td>0</td>
+  <td>3</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>4.3</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td>214</td>
+  <td>3</td>
+  <td>164</td>
+  <td>33</td>
+  <td>0</td>
+  <td>6</td>
+  <td>1</td>
+  <td>0</td>
+  <td>7</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>6.5</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td>303</td>
+  <td>1</td>
+  <td>258</td>
+  <td>32</td>
+  <td>0</td>
+  <td>4</td>
+  <td>1</td>
+  <td>0</td>
+  <td>6</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>4.0</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td>376</td>
+  <td>0</td>
+  <td>324</td>
+  <td>41</td>
+  <td>1</td>
+  <td>7</td>
+  <td>0</td>
+  <td>0</td>
+  <td>3</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.7</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td>458</td>
+  <td>0</td>
+  <td>402</td>
+  <td>49</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.5</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td>556</td>
+  <td>1</td>
+  <td>493</td>
+  <td>54</td>
+  <td>1</td>
+  <td>5</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.3</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td>693</td>
+  <td>1</td>
+  <td>608</td>
+  <td>76</td>
+  <td>0</td>
+  <td>3</td>
+  <td>2</td>
+  <td>0</td>
+  <td>2</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.2</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td>613</td>
+  <td>3</td>
+  <td>541</td>
+  <td>57</td>
+  <td>0</td>
+  <td>6</td>
+  <td>1</td>
+  <td>0</td>
+  <td>4</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.0</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td>617</td>
+  <td>0</td>
+  <td>540</td>
+  <td>62</td>
+  <td>2</td>
+  <td>7</td>
+  <td>1</td>
+  <td>0</td>
+  <td>5</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.1</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td>650</td>
+  <td>0</td>
+  <td>575</td>
+  <td>63</td>
+  <td>1</td>
+  <td>7</td>
+  <td>0</td>
+  <td>0</td>
+  <td>4</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.7</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td>639</td>
+  <td>2</td>
+  <td>559</td>
+  <td>64</td>
+  <td>1</td>
+  <td>7</td>
+  <td>0</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.0</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td>610</td>
+  <td>0</td>
+  <td>532</td>
+  <td>70</td>
+  <td>1</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.1</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td>564</td>
+  <td>1</td>
+  <td>506</td>
+  <td>44</td>
+  <td>1</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.1</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td>460</td>
+  <td>1</td>
+  <td>405</td>
+  <td>43</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>5</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.4</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td>387</td>
+  <td>0</td>
+  <td>345</td>
+  <td>36</td>
+  <td>0</td>
+  <td>4</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.6</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+  <td>285</td>
+  <td>0</td>
+  <td>257</td>
+  <td>27</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0.0</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td>226</td>
+  <td>0</td>
+  <td>200</td>
+  <td>21</td>
+  <td>1</td>
+  <td>4</td>
 
-  <td>2</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>1</td>
   <td>0</td>
-  <td>0.9</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.8</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
-  <td>240</td>
+  <td>160</td>
   <td>0</td>
-  <td>221</td>
-  <td>17</td>
+  <td>144</td>
+  <td>14</td>
   <td>0</td>
   <td>2</td>
   <td>0</td>
@@ -603,106 +603,106 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>0.8</td>
+  <td>1.3</td>
  </tr>
 <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>7am-7pm</td>
-  <td>10298</td>
-  <td>7</td>
-  <td>8770</td>
-  <td>1221</td>
-  <td>10</td>
-  <td>172</td>
-  <td>36</td>
-  <td>1</td>
-  <td>72</td>
-  <td>7</td>
+  <td>6293</td>
+  <td>12</td>
+  <td>5502</td>
+  <td>645</td>
+  <td>8</td>
+  <td>70</td>
+  <td>6</td>
+  <td>0</td>
+  <td>46</td>
+  <td>4</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>2</td>
   <td>0</td>
-  <td>2.8</td>
+  <td>0</td>
+  <td>2.0</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>6am-10pm</td>
-  <td>12339</td>
-  <td>10</td>
-  <td>10585</td>
-  <td>1421</td>
-  <td>14</td>
-  <td>185</td>
-  <td>38</td>
-  <td>1</td>
-  <td>73</td>
-  <td>10</td>
+  <td>7542</td>
+  <td>13</td>
+  <td>6599</td>
+  <td>773</td>
+  <td>9</td>
+  <td>83</td>
+  <td>7</td>
+  <td>0</td>
+  <td>54</td>
+  <td>4</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>2</td>
   <td>0</td>
-  <td>2.5</td>
+  <td>0</td>
+  <td>2.0</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>6am-12am</td>
-  <td>12909</td>
+  <td>7928</td>
+  <td>13</td>
+  <td>6943</td>
+  <td>808</td>
   <td>10</td>
-  <td>11103</td>
-  <td>1465</td>
-  <td>16</td>
-  <td>189</td>
-  <td>38</td>
-  <td>1</td>
-  <td>74</td>
-  <td>10</td>
+  <td>89</td>
+  <td>7</td>
+  <td>0</td>
+  <td>54</td>
+  <td>4</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>3</td>
   <td>0</td>
-  <td>2.4</td>
+  <td>0</td>
+  <td>1.9</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>12am-12am</td>
-  <td>13328</td>
-  <td>10</td>
-  <td>11463</td>
-  <td>1514</td>
-  <td>16</td>
-  <td>195</td>
-  <td>40</td>
-  <td>1</td>
-  <td>74</td>
-  <td>12</td>
+  <td>8308</td>
+  <td>13</td>
+  <td>7279</td>
+  <td>842</td>
+  <td>13</td>
+  <td>95</td>
+  <td>7</td>
+  <td>0</td>
+  <td>55</td>
+  <td>4</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>3</td>
   <td>0</td>
-  <td>2.4</td>
+  <td>0</td>
+  <td>1.9</td>
  </tr>
 <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
-  <td>08:00:00</td>
   <td>11:00:00</td>
-  <td>08:00:00</td>
+  <td>07:00:00</td>
   <td>11:00:00</td>
+  <td>11:00:00</td>
+  <td>05:00:00</td>
+  <td>09:00:00</td>
   <td>06:00:00</td>
-  <td>10:00:00</td>
-  <td>08:00:00</td>
   <td></td>
   <td>07:00:00</td>
-  <td>01:00:00</td>
+  <td>08:00:00</td>
   <td></td>
   <td></td>
   <td></td>
@@ -714,15 +714,15 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
-  <td>1022</td>
+  <td>556</td>
+  <td>3</td>
+  <td>493</td>
+  <td>54</td>
   <td>2</td>
-  <td>863</td>
-  <td>127</td>
-  <td>2</td>
-  <td>23</td>
-  <td>9</td>
+  <td>7</td>
+  <td>1</td>
   <td></td>
-  <td>10</td>
+  <td>7</td>
   <td>1</td>
   <td></td>
   <td></td>
@@ -737,41 +737,41 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
   <td>12:00:00</td>
   <td>13:00:00</td>
-  <td>17:00:00</td>
-  <td>13:00:00</td>
-  <td>22:00:00</td>
   <td>12:00:00</td>
-  <td>15:00:00</td>
-  <td>13:00:00</td>
   <td>12:00:00</td>
-  <td>13:00:00</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
+  <td>14:00:00</td>
+  <td>14:00:00</td>
   <td>12:00:00</td>
+  <td></td>
+  <td>16:00:00</td>
+  <td>12:00:00</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
-  <td>969</td>
+  <td>693</td>
+  <td>3</td>
+  <td>608</td>
+  <td>76</td>
   <td>2</td>
-  <td>820</td>
-  <td>131</td>
+  <td>7</td>
   <td>2</td>
-  <td>19</td>
-  <td>9</td>
+  <td></td>
+  <td>6</td>
   <td>1</td>
-  <td>10</td>
-  <td>2</td>
   <td></td>
   <td></td>
   <td></td>
   <td></td>
   <td></td>
-  <td>1</td>
+  <td></td>
   <td></td>
   <td></td>
  </tr>
@@ -800,14 +800,12 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
  </tr>
  <tr class="T">
   <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
-  <td>96</td>
+  <td>153</td>
+  <td>1</td>
+  <td>137</td>
+  <td>13</td>
   <td>0</td>
-  <td>86</td>
-  <td>6</td>
-  <td>0</td>
-  <td>4</td>
-  <td>0</td>
-  <td>0</td>
+  <td>2</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -817,20 +815,21 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>4.2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.3</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
-  <td>55</td>
-  <td>0</td>
-  <td>48</td>
+  <td>66</td>
+  <td>1</td>
+  <td>59</td>
   <td>5</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>1</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -838,55 +837,35 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>3.6</td>
+  <td>0</td>
+  <td>1.5</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
-  <td>49</td>
-  <td>0</td>
-  <td>44</td>
-  <td>2</td>
-  <td>0</td>
+  <td>68</td>
   <td>1</td>
-  <td>1</td>
-  <td>0</td>
+  <td>59</td>
+  <td>6</td>
   <td>0</td>
   <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
+  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>6.1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.9</td>
  </tr>
  <tr class="T">
   <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
-  <td>36</td>
+  <td>50</td>
   <td>0</td>
-  <td>29</td>
-  <td>4</td>
-  <td>0</td>
-  <td>2</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>8.3</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
-  <td>35</td>
-  <td>0</td>
-  <td>30</td>
+  <td>45</td>
   <td>5</td>
   <td>0</td>
   <td>0</td>
@@ -904,17 +883,38 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0.0</td>
  </tr>
  <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
-  <td>125</td>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td>25</td>
   <td>0</td>
-  <td>99</td>
-  <td>21</td>
+  <td>18</td>
+  <td>5</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>8.0</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td>61</td>
+  <td>0</td>
+  <td>54</td>
+  <td>4</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
   <td>0</td>
   <td>2</td>
-  <td>1</td>
-  <td>0</td>
-  <td>1</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -922,20 +922,16 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>4.0</td>
+  <td>4.9</td>
  </tr>
  <tr class="T">
   <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
-  <td>440</td>
-  <td>1</td>
-  <td>376</td>
-  <td>52</td>
-  <td>1</td>
-  <td>8</td>
-  <td>1</td>
+  <td>186</td>
   <td>0</td>
+  <td>158</td>
+  <td>21</td>
   <td>0</td>
-  <td>1</td>
+  <td>7</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -943,20 +939,23 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>2.3</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>3.8</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
-  <td>638</td>
-  <td>2</td>
-  <td>545</td>
-  <td>76</td>
+  <td>222</td>
+  <td>0</td>
+  <td>189</td>
+  <td>26</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
   <td>1</td>
-  <td>11</td>
-  <td>1</td>
-  <td>0</td>
-  <td>1</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -964,209 +963,20 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>2.2</td>
+  <td>0</td>
+  <td>3.2</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
-  <td>655</td>
-  <td>1</td>
-  <td>521</td>
-  <td>94</td>
-  <td>5</td>
-  <td>15</td>
-  <td>1</td>
+  <td>318</td>
   <td>0</td>
-  <td>8</td>
-  <td>5</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>5</td>
-  <td>0</td>
-  <td>4.4</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
-  <td>635</td>
-  <td>2</td>
-  <td>536</td>
-  <td>79</td>
-  <td>2</td>
-  <td>10</td>
-  <td>1</td>
-  <td>0</td>
-  <td>5</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>2.5</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
-  <td>708</td>
-  <td>2</td>
-  <td>589</td>
-  <td>96</td>
-  <td>0</td>
-  <td>11</td>
-  <td>4</td>
-  <td>0</td>
-  <td>5</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-
-  <td>1</td>
-  <td>0</td>
-  <td>2.8</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
-  <td>743</td>
-  <td>1</td>
-  <td>613</td>
-  <td>102</td>
-  <td>0</td>
-  <td>20</td>
-  <td>3</td>
+  <td>268</td>
+  <td>45</td>
   <td>0</td>
   <td>4</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>3.6</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
-  <td>878</td>
-  <td>1</td>
-  <td>761</td>
-  <td>97</td>
-  <td>0</td>
-  <td>11</td>
-  <td>2</td>
-  <td>0</td>
-  <td>4</td>
-  <td>2</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>2.2</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
-  <td>971</td>
-  <td>1</td>
-  <td>842</td>
-  <td>105</td>
-  <td>0</td>
-  <td>16</td>
-  <td>1</td>
-  <td>0</td>
-  <td>5</td>
   <td>1</td>
   <td>0</td>
   <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>2.4</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
-  <td>998</td>
-  <td>3</td>
-  <td>867</td>
-  <td>108</td>
-  <td>0</td>
-  <td>15</td>
-  <td>0</td>
-  <td>0</td>
-  <td>5</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>2.0</td>
- </tr>
- <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
-  <td>1028</td>
-  <td>1</td>
-  <td>894</td>
-  <td>112</td>
-  <td>1</td>
-  <td>11</td>
-  <td>0</td>
-  <td>0</td>
-  <td>8</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>1.8</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
-  <td>1134</td>
-  <td>4</td>
-  <td>992</td>
-  <td>108</td>
-  <td>1</td>
-  <td>15</td>
-  <td>1</td>
-  <td>0</td>
-  <td>7</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>4</td>
-  <td>0</td>
-  <td>2.2</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
-  <td>1139</td>
-  <td>1</td>
-  <td>1009</td>
-  <td>110</td>
-  <td>1</td>
-  <td>11</td>
-  <td>1</td>
-  <td>0</td>
-  <td>6</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -1178,16 +988,59 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>1.6</td>
  </tr>
  <tr class="T">
-  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
-  <td>1064</td>
-  <td>1</td>
-  <td>956</td>
-  <td>92</td>
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td>466</td>
   <td>2</td>
-  <td>9</td>
+  <td>411</td>
+  <td>46</td>
+  <td>0</td>
+  <td>6</td>
   <td>0</td>
   <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>1.3</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td>562</td>
   <td>3</td>
+  <td>498</td>
+  <td>49</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2.1</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+
+  <td>586</td>
+  <td>0</td>
+  <td>535</td>
+  <td>43</td>
+  <td>1</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>4</td>
   <td>1</td>
   <td>0</td>
   <td>0</td>
@@ -1198,18 +1051,102 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>1.2</td>
  </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
-  <td>706</td>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td>648</td>
   <td>2</td>
-  <td>641</td>
-  <td>53</td>
+  <td>570</td>
+  <td>71</td>
+  <td>0</td>
+  <td>4</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0.8</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td>627</td>
+  <td>1</td>
+  <td>553</td>
+  <td>64</td>
+  <td>1</td>
+  <td>4</td>
+  <td>1</td>
+  <td>0</td>
+  <td>3</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.3</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td>681</td>
+  <td>1</td>
+  <td>605</td>
+  <td>65</td>
+  <td>0</td>
+  <td>5</td>
+  <td>0</td>
+  <td>0</td>
+  <td>5</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.5</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td>577</td>
+  <td>0</td>
+  <td>524</td>
+  <td>49</td>
+  <td>2</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0.3</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td>605</td>
+  <td>1</td>
+  <td>551</td>
+  <td>44</td>
   <td>0</td>
   <td>8</td>
   <td>0</td>
   <td>0</td>
+  <td>0</td>
   <td>1</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -1217,17 +1154,58 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>1.4</td>
+  <td>1.5</td>
  </tr>
  <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
-  <td>521</td>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td>588</td>
+  <td>1</td>
+  <td>532</td>
+  <td>48</td>
   <td>0</td>
-  <td>463</td>
-  <td>53</td>
+  <td>4</td>
+  <td>0</td>
   <td>0</td>
   <td>3</td>
   <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.2</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td>568</td>
+  <td>2</td>
+  <td>516</td>
+  <td>48</td>
+  <td>0</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0.4</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td>448</td>
+  <td>0</td>
+  <td>395</td>
+  <td>45</td>
+  <td>1</td>
+  <td>5</td>
   <td>0</td>
   <td>0</td>
   <td>2</td>
@@ -1238,19 +1216,42 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>1.0</td>
+  <td>0</td>
+  <td>1.6</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td>414</td>
+  <td>3</td>
+  <td>373</td>
+  <td>32</td>
+  <td>0</td>
+  <td>6</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>1.4</td>
  </tr>
  <tr class="T">
   <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
-  <td>367</td>
+  <td>315</td>
+  <td>0</td>
+  <td>284</td>
+  <td>26</td>
+  <td>0</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
+  <td>2</td>
   <td>1</td>
-  <td>330</td>
-  <td>30</td>
-  <td>1</td>
-  <td>4</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -1258,42 +1259,40 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>0</td>
-  <td>1.4</td>
+  <td>1.6</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
-  <td>364</td>
-  <td>0</td>
-  <td>329</td>
-  <td>28</td>
+  <td>271</td>
   <td>1</td>
-  <td>4</td>
-  <td>0</td>
-  <td>0</td>
-  <td>0</td>
-  <td>1</td>
-  <td>0</td>
-  <td>0</td>
+  <td>242</td>
+  <td>25</td>
+  <td>2</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>1</td>
   <td>0</td>
-  <td>1.4</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0</td>
+  <td>0.4</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
-  <td>208</td>
+  <td>206</td>
   <td>0</td>
-  <td>191</td>
-  <td>12</td>
-  <td>1</td>
+  <td>185</td>
+  <td>18</td>
+  <td>0</td>
   <td>3</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>1</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
@@ -1301,177 +1300,178 @@ th.WeXlDM { background-color: #CCCCCC; mso-number-format:"mmm d"; } /* Force sho
   <td>0</td>
   <td>0</td>
   <td>0</td>
-  <td>1.9</td>
+  <td>0</td>
+  <td>1.5</td>
  </tr>
 <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>7am-7pm</td>
-  <td>10591</td>
-  <td>20</td>
-  <td>9125</td>
-  <td>1179</td>
+  <td>6448</td>
   <td>13</td>
-  <td>155</td>
-  <td>15</td>
+  <td>5752</td>
+  <td>598</td>
+  <td>4</td>
+  <td>52</td>
+  <td>2</td>
   <td>0</td>
-  <td>61</td>
-  <td>11</td>
+  <td>24</td>
+  <td>2</td>
+  <td>0</td>
+  <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>1</td>
   <td>0</td>
-  <td>11</td>
-  <td>0</td>
-  <td>2.3</td>
+  <td>1.2</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>6am-10pm</td>
-  <td>12625</td>
-  <td>24</td>
-  <td>10935</td>
-  <td>1367</td>
-  <td>15</td>
-  <td>178</td>
+  <td>7811</td>
   <td>16</td>
+  <td>6962</td>
+  <td>722</td>
+  <td>5</td>
+  <td>72</td>
+  <td>2</td>
   <td>0</td>
-  <td>63</td>
-  <td>15</td>
+  <td>28</td>
+  <td>3</td>
+  <td>0</td>
+  <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>1</td>
   <td>0</td>
-  <td>11</td>
-  <td>0</td>
-  <td>2.2</td>
+  <td>1.3</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>6am-12am</td>
-  <td>13197</td>
-  <td>24</td>
-  <td>11455</td>
-  <td>1407</td>
+  <td>8288</td>
   <td>17</td>
-  <td>185</td>
-  <td>16</td>
+  <td>7389</td>
+  <td>765</td>
+  <td>7</td>
+  <td>75</td>
+  <td>2</td>
   <td>0</td>
-  <td>63</td>
-  <td>17</td>
+  <td>29</td>
+  <td>3</td>
+  <td>0</td>
+  <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>1</td>
   <td>0</td>
-  <td>12</td>
-  <td>0</td>
-  <td>2.1</td>
+  <td>1.3</td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>12am-12am</td>
-  <td>13593</td>
-  <td>24</td>
-  <td>11791</td>
-  <td>1450</td>
-  <td>17</td>
-  <td>194</td>
-  <td>18</td>
+  <td>8711</td>
+  <td>20</td>
+  <td>7761</td>
+  <td>803</td>
+  <td>7</td>
+  <td>80</td>
+  <td>2</td>
   <td>0</td>
-  <td>65</td>
-  <td>21</td>
+  <td>30</td>
+  <td>7</td>
+  <td>0</td>
+  <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>0</td>
   <td>1</td>
   <td>0</td>
-  <td>12</td>
-  <td>0</td>
-  <td>2.2</td>
+  <td>1.4</td>
  </tr>
 <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
   <td>11:00:00</td>
-  <td>07:00:00</td>
-  <td>11:00:00</td>
-  <td>11:00:00</td>
-  <td>08:00:00</td>
+  <td>10:00:00</td>
   <td>11:00:00</td>
   <td>10:00:00</td>
-  <td></td>
+  <td>11:00:00</td>
+  <td>06:00:00</td>
   <td>08:00:00</td>
-  <td>08:00:00</td>
+  <td></td>
+  <td>10:00:00</td>
+  <td>05:00:00</td>
   <td></td>
   <td></td>
   <td></td>
   <td></td>
   <td></td>
-  <td>08:00:00</td>
+  <td>09:00:00</td>
   <td></td>
   <td></td>
  </tr>
  <tr>
   <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
-  <td>743</td>
-  <td>2</td>
-  <td>613</td>
-  <td>102</td>
-  <td>5</td>
-  <td>20</td>
-  <td>4</td>
+  <td>586</td>
+  <td>3</td>
+  <td>535</td>
+  <td>49</td>
+  <td>1</td>
+  <td>7</td>
+  <td>1</td>
   <td></td>
-  <td>8</td>
-  <td>5</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>5</td>
-  <td></td>
-  <td></td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
-  <td>17:00:00</td>
-  <td>16:00:00</td>
-  <td>17:00:00</td>
-  <td>15:00:00</td>
-  <td>18:00:00</td>
-  <td>13:00:00</td>
-  <td>12:00:00</td>
-  <td></td>
-  <td>15:00:00</td>
-  <td>12:00:00</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td>16:00:00</td>
-  <td></td>
-  <td>16:00:00</td>
-  <td></td>
-  <td>16:00:00</td>
- </tr>
- <tr>
-  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
-  <td>1139</td>
-  <td>4</td>
-  <td>1009</td>
-  <td>112</td>
-  <td>2</td>
-  <td>16</td>
+  <td>6</td>
   <td>2</td>
   <td></td>
-  <td>8</td>
-  <td>2</td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
   <td>1</td>
   <td></td>
-  <td>4</td>
   <td></td>
-  <td>0.1</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td>14:00:00</td>
+  <td>20:00:00</td>
+  <td>14:00:00</td>
+  <td>12:00:00</td>
+  <td>15:00:00</td>
+  <td>16:00:00</td>
+  <td>13:00:00</td>
+  <td></td>
+  <td>14:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td>681</td>
+  <td>3</td>
+  <td>605</td>
+  <td>71</td>
+  <td>2</td>
+  <td>8</td>
+  <td>1</td>
+  <td></td>
+  <td>5</td>
+  <td>1</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
  </tr>
 </table> <!--grid-->
 <BR>

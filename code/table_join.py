@@ -79,7 +79,7 @@ def join_site(site_folder):
             for index, row in df.iterrows():
                 for col in df.columns[1:8]:
                     # Locate to the cell by site, date, direction, and time
-                    df_site.loc[(df_site['site'] == site_name) & (df_site['date'] == datetime.strptime(col, '%Y-%m-%d').strftime('%B %d, %Y')) & (df_site['direction'] == direction) & (df_site['time'] == row['time']), 'Speed'] = row[col]
+                    df_site.loc[(df_site['site'] == site_name) & (df_site['date'].apply(lambda x: datetime.strptime(x, '%B %d, %Y').strftime('%Y-%m-%d')) == datetime.strptime(col, '%Y-%m-%d').strftime('%Y-%m-%d')) & (df_site['direction'] == direction) & (df_site['time'] == row['time']), 'Speed'] = row[col]
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
 

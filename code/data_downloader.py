@@ -79,16 +79,38 @@ def download_with_selenium(site, start_date, end_date, data_type):
 
 if __name__ == '__main__':
     # Define download parameters
+
+    # for site in SITES:
+    #     start_date = "2024-02-18"
+    #     end_date = "2024-02-24"
+    #     data_type = "speed" # "class" or "speed"
+    #
+    #     download_with_selenium(site, start_date, end_date, data_type)
+    #
+    # for site in SITES:
+    #     start_date = "2024-07-21"
+    #     end_date = "2024-07-27"
+    #     data_type = "speed" # "class" or "speed"
+    #
+    #     download_with_selenium(site, start_date, end_date, data_type)
+
     for site in SITES:
-        start_date = "2024-02-18"
-        end_date = "2024-02-24"
+        start_date = "2024-10-27"
+        end_date = "2024-10-29"
         data_type = "speed" # "class" or "speed"
 
         download_with_selenium(site, start_date, end_date, data_type)
 
     for site in SITES:
-        start_date = "2024-07-21"
-        end_date = "2024-07-27"
+        start_date = "2024-11-27"
+        end_date = "2024-11-29"
+        data_type = "speed" # "class" or "speed"
+
+        download_with_selenium(site, start_date, end_date, data_type)
+
+    for site in SITES:
+        start_date = "2024-07-28"
+        end_date = "2024-08-03"
         data_type = "speed" # "class" or "speed"
 
         download_with_selenium(site, start_date, end_date, data_type)
