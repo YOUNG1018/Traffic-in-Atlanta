@@ -5,10 +5,10 @@ body {
     line-height: 1.7; /* Enhanced readability */
 }
 h1{
-      margin: 3%;
+      margin-left: 3%;
 }
 h2{
-      margin: 3%;
+      margin-left: 3%;
 }
 .header-image-container {
     position: relative;
