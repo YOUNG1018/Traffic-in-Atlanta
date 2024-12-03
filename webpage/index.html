@@ -71,7 +71,7 @@
   </div>
 
   <!-- Tableau Visualizations in a Row with Fisheye Effect -->
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div class='tableauPlaceholder' id='viz1' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 '
             src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C8&#47;C8MSRMQ9Z&#47;1_rss.png'
             style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
@@ -128,57 +128,115 @@
         <param name='language' value='en-US' />
         <param name='filter' value='publish=yes' />
       </object></div>
+  </div> -->
+
+  <style>
+    .visualization-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+
+    .visualization {
+      width: 30%;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .visualization.zoomed {
+      transform: scale(1.5);
+      z-index: 10;
+    }
+
+    .button-container {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    .zoom-button {
+      margin: 0 10px;
+      padding: 10px 20px;
+      cursor: pointer;
+    }
+  </style>
+
+  <div class="button-container">
+    <button class="zoom-button" onclick="zoomVisualization('viz1')">Zoom Visualization 1</button>
+    <button class="zoom-button" onclick="zoomVisualization('viz2')">Zoom Visualization 2</button>
+    <button class="zoom-button" onclick="zoomVisualization('viz3')">Zoom Visualization 3</button>
   </div>
 
-  <script type='text/javascript'>
-    var vizElements = ['viz1', 'viz2', 'viz3'];
-    vizElements.forEach(function (id) {
-      var divElement = document.getElementById(id);
-      var vizElement = divElement.getElementsByTagName('object')[0];
-      vizElement.style.width = '100%';
-      vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-      var scriptElement = document.createElement('script');
-      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-      vizElement.parentNode.insertBefore(scriptElement, vizElement);
-    });
-    // Create buttons for each visualization
-    var buttonContainer = document.createElement('div');
-    buttonContainer.style.display = 'flex';
-    buttonContainer.style.justifyContent = 'center';
-    buttonContainer.style.marginTop = '20px';
+  <div class="visualization-container">
+    <div class='tableauPlaceholder visualization' id='viz1' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 '
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C8&#47;C8MSRMQ9Z&#47;1_rss.png'
+            style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='path' value='shared&#47;C8MSRMQ9Z' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C8&#47;C8MSRMQ9Z&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+      </object></div>
 
-    vizElements.forEach(function (id, index) {
-      var button = document.createElement('button');
-      button.innerText = 'Visualization ' + (index + 1);
-      button.style.margin = '0 10px';
-      button.addEventListener('click', function () {
-        vizElements.forEach(function (vizId) {
-          document.getElementById(vizId).style.display = 'none';
-        });
-        document.getElementById(id).style.display = 'block';
+    <div class='tableauPlaceholder visualization' id='viz2' style='position: relative'><noscript><a href='#'><img alt='Dashboard 3 '
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard3&#47;1_rss.png'
+            style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='ATLTraffic_yishu&#47;Dashboard3' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard3&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+      </object></div>
+
+    <div class='tableauPlaceholder visualization' id='viz3' style='position: relative'><noscript><a href='#'><img alt='Dashboard 5 '
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard5&#47;1_rss.png'
+            style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='ATLTraffic_yishu&#47;Dashboard5' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard5&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+      </object></div>
+  </div>
+
+  <script>
+    function zoomVisualization(id) {
+      var visualizations = document.querySelectorAll('.visualization');
+      visualizations.forEach(function (viz) {
+        if (viz.id === id) {
+          viz.classList.toggle('zoomed');
+        } else {
+          viz.classList.remove('zoomed');
+        }
       });
-      buttonContainer.appendChild(button);
-    });
-
-    document.body.insertBefore(buttonContainer, document.body.firstChild);
-
-    // Hide all visualizations initially
-    vizElements.forEach(function (id) {
-      document.getElementById(id).style.display = 'none';
-    });
-    //   // Fisheye effect
-    //   vizElements.forEach(function (id) {
-    //     var element = document.getElementById(id);
-    //     element.addEventListener('mouseover', function () {
-    //       element.style.transform = 'scale(1.1)';
-    //       element.style.zIndex = '1';
-    //     });
-    //     element.addEventListener('mouseout', function () {
-    //       element.style.transform = 'scale(1)';
-    //       element.style.zIndex = '0';
-    //     });
-    //   });
-    // </script>
+    }
+  </script>
 
   <!-- Vehicle Composition  -->
   <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
