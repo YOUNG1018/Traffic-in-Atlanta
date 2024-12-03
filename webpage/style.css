@@ -5,6 +5,7 @@ body {
     padding: 0;
     text-align: justify;
 }
+
 .header-image-container {
     position: relative;
     text-align: center;
@@ -26,6 +27,7 @@ body {
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
+
 .header-sub-text {
     position: absolute;
     top: 46%;
@@ -61,6 +63,7 @@ body {
     justify-content: center; /* 保证内容垂直居中 */
     height: 100%; /* 确保容器具有高度 */
 }
+
 .text p {
     margin: 0; /* 去除默认外边距 */
     padding: 10px; /* 根据需要调整内边距 */
@@ -80,6 +83,7 @@ body {
 .tableauPlaceholder {
     width: 100%; /* 图表宽度占满父容器 */
 }
+
 /* 右侧图片样式 */
 .image {
     flex: 2;
@@ -87,9 +91,59 @@ body {
     justify-content: center; /* 水平居中图片 */
     align-items: center; /* 垂直居中图片 */
 }
+
 .image img {
     max-width: 40%; /* 确保图片不会超出父容器宽度 */
     height: auto; /* 按比例缩放图片 */
     border-radius: 5px; /* 可选：圆角 */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 可选：添加阴影 */
 }
+
+
+/*Chenyang*/
+
+/* Style for the video container to maintain aspect ratio */
+.video iframe {
+    width: 80%;
+    height: calc(80vw * 9 / 16); /* Ensures 16:9 ratio */
+    max-width: 1280px;
+    max-height: 720px;
+    margin: auto;
+    display: block;
+}
+
+/* Style for Tableau visualizations and images */
+.content-section {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.content-section .text {
+    width: 50%;
+    margin-right: 20px;
+}
+
+.content-section img {
+    width: 30%;
+    height: auto;
+}
+
+/* Responsive fixes for smaller screens */
+@media (max-width: 768px) {
+    .content-section {
+        flex-direction: column;
+    }
+
+    .content-section .text,
+    .content-section img {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+
+    .tableauPlaceholder {
+        height: 400px;
+    }
+}
+
