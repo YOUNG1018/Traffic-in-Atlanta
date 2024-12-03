@@ -27,14 +27,14 @@ h2{
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 60px;
+    font-size: 100px;
     font-weight: bold;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
 }
 
 .header-sub-text {
     position: absolute;
-    top: 46%;
+    top: 47%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
