@@ -29,7 +29,7 @@
   <h1>Overview</h1>
   <!-- Map view -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="width: 60%;">
+    <div style="width: 75%;">
       <div class='tableauPlaceholder' id='viz1733197973503' style='position: relative'><noscript><a href='#'><img
               alt='Map View - Time: 16 O&#39;Clock '
               src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATL_Traffic_Chenyang&#47;MapView&#47;1_rss.png'
@@ -70,8 +70,98 @@
     </div>
   </div>
 
-  <!-- Vehicle Composition  -->
+  <!-- Tableau Visualizations in a Row with Fisheye Effect -->
   <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div class='tableauPlaceholder' id='viz1' style='position: relative; flex: 1; margin: 0 10px;'><noscript><a href='#'><img
+          alt='Visualization 1'
+          src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Yi&#47;Yixuan&#47;Maptotal&#47;1_rss.png'
+          style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='Yixuan&#47;Maptotal' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Yi&#47;Yixuan&#47;Maptotal&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+      </object></div>
+    <div class='tableauPlaceholder' id='viz2' style='position: relative; flex: 1; margin: 0 10px;'><noscript><a href='#'><img
+          alt='Visualization 2'
+          src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Yi&#47;Yixuan&#47;Maptotal&#47;1_rss.png'
+          style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='Yixuan&#47;Maptotal' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Yi&#47;Yixuan&#47;Maptotal&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+      </object></div>
+    <div class='tableauPlaceholder' id='viz3' style='position: relative; flex: 1; margin: 0 10px;'><noscript><a href='#'><img
+          alt='Visualization 3'
+          src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Yi&#47;Yixuan&#47;Maptotal&#47;1_rss.png'
+          style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='site_root' value='' />
+        <param name='name' value='Yixuan&#47;Maptotal' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image'
+          value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Yi&#47;Yixuan&#47;Maptotal&#47;1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+        <param name='filter' value='publish=yes' />
+      </object></div>
+  </div>
+
+  <script type='text/javascript'>
+    var vizElements = ['viz1', 'viz2', 'viz3'];
+    vizElements.forEach(function (id) {
+      var divElement = document.getElementById(id);
+      var vizElement = divElement.getElementsByTagName('object')[0];
+      vizElement.style.width = '100%';
+      vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+      var scriptElement = document.createElement('script');
+      scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+      vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    });
+
+    // Fisheye effect
+    vizElements.forEach(function (id) {
+      var element = document.getElementById(id);
+      element.addEventListener('mouseover', function () {
+        element.style.transform = 'scale(1.1)';
+        element.style.zIndex = '1';
+      });
+      element.addEventListener('mouseout', function () {
+        element.style.transform = 'scale(1)';
+        element.style.zIndex = '0';
+      });
+    });
+  </script>
+  
+  <!-- Vehicle Composition  -->
+  <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 60%;">
       <div class='tableauPlaceholder' id='viz1733200521852' style='position: relative'><noscript><a href='#'><img
               alt='Dashboard 2 '
@@ -105,10 +195,10 @@
       <h2>Vehicle Composition</h2>
       <p> some descriptions</p>
     </div>
-  </div>
+  </div> -->
 
   <!-- Road Capacity  -->
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 60%;">
       <div class='tableauPlaceholder' id='viz1733203669033' style='position: relative'><noscript><a href='#'><img
               alt='Dashboard 3 '
@@ -144,10 +234,10 @@
       <h2>Road Capacity</h2>
       <p> some descriptions</p>
     </div>
-  </div>
+  </div> -->
 
   <!-- Driving difficulty  -->
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 60%;">
       <div class='tableauPlaceholder' id='viz1733203916206' style='position: relative'><noscript><a href='#'><img
           alt='Dashboard 5 '
@@ -183,7 +273,7 @@
     <h2>Driving difficulty</h2>
     <p> some descriptions</p>
   </div>
-</div>
+</div> -->
 
   <h1>Client Scenarios</h1>
   <!--Jared-->
