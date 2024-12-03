@@ -129,44 +129,9 @@
         <param name='filter' value='publish=yes' />
       </object></div>
   </div> -->
-
-  <style>
-    .visualization-container {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-start;
-    }
-
-    .visualization {
-      width: 30%;
-      transition: transform 0.3s ease-in-out;
-    }
-
-    .visualization.zoomed {
-      transform: scale(1.5);
-      z-index: 10;
-    }
-
-    .button-container {
-      text-align: center;
-      margin-top: 20px;
-    }
-
-    .zoom-button {
-      margin: 0 10px;
-      padding: 10px 20px;
-      cursor: pointer;
-    }
-  </style>
-
-  <div class="button-container">
-    <button class="zoom-button" onclick="zoomVisualization('viz1')">Zoom Visualization 1</button>
-    <button class="zoom-button" onclick="zoomVisualization('viz2')">Zoom Visualization 2</button>
-    <button class="zoom-button" onclick="zoomVisualization('viz3')">Zoom Visualization 3</button>
-  </div>
-
-  <div class="visualization-container">
-    <div class='tableauPlaceholder visualization' id='viz1' style='position: relative'><noscript><a href='#'><img alt='Dashboard 2 '
+  
+  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div class='tableauPlaceholder' id='viz1' style='position: relative; width: 32%;'><noscript><a href='#'><img alt='Dashboard 2 '
             src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C8&#47;C8MSRMQ9Z&#47;1_rss.png'
             style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -184,7 +149,7 @@
         <param name='filter' value='publish=yes' />
       </object></div>
 
-    <div class='tableauPlaceholder visualization' id='viz2' style='position: relative'><noscript><a href='#'><img alt='Dashboard 3 '
+    <div class='tableauPlaceholder' id='viz2' style='position: relative; width: 32%;'><noscript><a href='#'><img alt='Dashboard 3 '
             src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard3&#47;1_rss.png'
             style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -204,7 +169,7 @@
         <param name='filter' value='publish=yes' />
       </object></div>
 
-    <div class='tableauPlaceholder visualization' id='viz3' style='position: relative'><noscript><a href='#'><img alt='Dashboard 5 '
+    <div class='tableauPlaceholder' id='viz3' style='position: relative; width: 32%;'><noscript><a href='#'><img alt='Dashboard 5 '
             src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard5&#47;1_rss.png'
             style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -224,19 +189,6 @@
         <param name='filter' value='publish=yes' />
       </object></div>
   </div>
-
-  <script>
-    function zoomVisualization(id) {
-      var visualizations = document.querySelectorAll('.visualization');
-      visualizations.forEach(function (viz) {
-        if (viz.id === id) {
-          viz.classList.toggle('zoomed');
-        } else {
-          viz.classList.remove('zoomed');
-        }
-      });
-    }
-  </script>
 
   <!-- Vehicle Composition  -->
   <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
