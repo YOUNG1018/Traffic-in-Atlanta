@@ -69,9 +69,10 @@
         congestion levels. The map is updated in real-time to provide the most accurate and up-to-date information.</p>
     </div>
   </div>
-<!-- 3 VIS in a row -->
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div class='tableauPlaceholder' id='viz1' style='position: relative; width: 32%;'><noscript><a href='#'><img alt='Dashboard 2 '
+
+  <!-- 2 VIS in a row -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div class='tableauPlaceholder' id='viz1' style='position: relative; width: 48%; margin-bottom: 20px;'><noscript><a href='#'><img alt='Dashboard 2 '
             src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C8&#47;C8MSRMQ9Z&#47;1_rss.png'
             style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -89,7 +90,7 @@
         <param name='filter' value='publish=yes' />
       </object></div>
 
-    <div class='tableauPlaceholder' id='viz2' style='position: relative; width: 32%;'><noscript><a href='#'><img alt='Dashboard 3 '
+    <div class='tableauPlaceholder' id='viz2' style='position: relative; width: 48%; margin-bottom: 20px;'><noscript><a href='#'><img alt='Dashboard 3 '
             src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard3&#47;1_rss.png'
             style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -108,8 +109,10 @@
         <param name='language' value='en-US' />
         <param name='filter' value='publish=yes' />
       </object></div>
-
-    <div class='tableauPlaceholder' id='viz3' style='position: relative; width: 32%;'><noscript><a href='#'><img alt='Dashboard 5 '
+    </div>
+   
+    <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div class='tableauPlaceholder' id='viz3' style='position: relative; width: 48%; margin-bottom: 20px;'><noscript><a href='#'><img alt='Dashboard 5 '
             src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATLTraffic_yishu&#47;Dashboard5&#47;1_rss.png'
             style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -129,27 +132,6 @@
         <param name='filter' value='publish=yes' />
       </object></div>
   </div>
-  <script type='text/javascript'>
-    function adjustTableauViz() {
-      var viz1 = document.getElementById('viz1').getElementsByTagName('object')[0];
-      var viz2 = document.getElementById('viz2').getElementsByTagName('object')[0];
-      var viz3 = document.getElementById('viz3').getElementsByTagName('object')[0];
-
-      var width = document.getElementById('viz1').offsetWidth;
-      var height = width * 0.75; // Maintain aspect ratio
-
-      viz1.style.width = width + 'px';
-      viz1.style.height = height + 'px';
-      viz2.style.width = width + 'px';
-      viz2.style.height = height + 'px';
-      viz3.style.width = width + 'px';
-      viz3.style.height = height + 'px';
-    }
-
-    window.addEventListener('load', adjustTableauViz);
-    window.addEventListener('resize', adjustTableauViz);
-  </script>
-  
   <!-- Vehicle Composition  -->
   <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 60%;">
