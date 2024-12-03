@@ -35,8 +35,4 @@ function initializeViz(id, tableauUrl, widthPercentage) {
 document.addEventListener('DOMContentLoaded', function () {
     // initializeViz('viz1732719356408', 'shared/5D8CFGWCC', 0.5); // interactive map 1 - 50%
     initializeViz('viz1732723493241', 'shared/NMMKGZX32', 0.75); // interactive map 2 -75%
-    initializeViz('viz1732722871550', 'Yixuan/Map_select', 0.6); 
-    initializeViz('viz1732723104838', 'Yixuan/089-3323', 0.4); 
-    initializeViz('viz1732724029433', 'Yixuan/121-5468', 0.9); 
 });
-
