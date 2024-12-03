@@ -1,11 +1,15 @@
-/* 全局样式 */
 body {
     font-family: 'Lato', sans-serif;
-    margin: 2%;
     padding: 0;
     text-align: justify;
+    line-height: 1.7; /* Enhanced readability */
 }
-
+h1{
+      margin: 3%;
+}
+h2{
+      margin: 3%;
+}
 .header-image-container {
     position: relative;
     text-align: center;
@@ -41,8 +45,15 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* 每行的间隔 */
+    gap: 20px; /* Spacing between rows */
+    margin: 3%; /* Add margin around the container */
+    padding: 30px; /* Inner padding for the container */
+    background-color: #ffffff; /* Light background for contrast */
+    border-radius: 8px; /* Rounded corners for a softer look */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    position: relative; /* Required for the pseudo-element */
 }
+
 
 /* 行样式 */
 .row {
@@ -52,6 +63,7 @@ body {
     justify-content: space-between;
     gap: 20px; /* 左右列间的间距 */
     height: auto; /* 行高动态调整 */
+    margin-bottom: 30px;
 }
 
 /* 左侧文字样式 */
@@ -68,7 +80,6 @@ body {
     margin: 0; /* 去除默认外边距 */
     padding: 10px; /* 根据需要调整内边距 */
     font-size: 16px; /* 设置文字大小 */
-    line-height: 1.5; /* 行高，增强可读性 */
 }
 
 /* 右侧 Tableau 图表样式 */
@@ -147,3 +158,20 @@ body {
     }
 }
 
+.intro {
+    flex: 1;
+    display: flex;
+    flex-direction: column; /* 内容垂直排列 */
+    justify-content: center; /* 保证内容垂直居中 */
+    text-align: center;
+    margin-left:25%;
+    margin-right:25%;
+    margin-top:3%;
+    margin-bottom:3%;
+}
+
+.intro p {
+    margin: 0; /* 去除默认外边距 */
+    padding: 10px; /* 根据需要调整内边距 */
+    font-size: 18px; /* 设置文字大小 */
+}
