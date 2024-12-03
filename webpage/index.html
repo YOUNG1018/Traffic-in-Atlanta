@@ -145,21 +145,45 @@
       scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
       vizElement.parentNode.insertBefore(scriptElement, vizElement);
     });
+    // Create buttons for each visualization
+    var buttonContainer = document.createElement('div');
+    buttonContainer.style.display = 'flex';
+    buttonContainer.style.justifyContent = 'center';
+    buttonContainer.style.marginTop = '20px';
 
-    // Fisheye effect
-    vizElements.forEach(function (id) {
-      var element = document.getElementById(id);
-      element.addEventListener('mouseover', function () {
-        element.style.transform = 'scale(1.1)';
-        element.style.zIndex = '1';
+    vizElements.forEach(function (id, index) {
+      var button = document.createElement('button');
+      button.innerText = 'Visualization ' + (index + 1);
+      button.style.margin = '0 10px';
+      button.addEventListener('click', function () {
+      vizElements.forEach(function (vizId) {
+        document.getElementById(vizId).style.display = 'none';
       });
-      element.addEventListener('mouseout', function () {
-        element.style.transform = 'scale(1)';
-        element.style.zIndex = '0';
+      document.getElementById(id).style.display = 'block';
       });
+      buttonContainer.appendChild(button);
     });
-  </script>
-  
+
+    document.body.insertBefore(buttonContainer, document.body.firstChild);
+
+    // Hide all visualizations initially
+    vizElements.forEach(function (id) {
+      document.getElementById(id).style.display = 'none';
+    });
+  //   // Fisheye effect
+  //   vizElements.forEach(function (id) {
+  //     var element = document.getElementById(id);
+  //     element.addEventListener('mouseover', function () {
+  //       element.style.transform = 'scale(1.1)';
+  //       element.style.zIndex = '1';
+  //     });
+  //     element.addEventListener('mouseout', function () {
+  //       element.style.transform = 'scale(1)';
+  //       element.style.zIndex = '0';
+  //     });
+  //   });
+  // </script>
+
   <!-- Vehicle Composition  -->
   <!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 60%;">
