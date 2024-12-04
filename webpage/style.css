@@ -175,3 +175,11 @@ h2{
     padding: 10px; /* 根据需要调整内边距 */
     font-size: 18px; /* 设置文字大小 */
 }
+.centered-text {
+    display: flex;
+    flex-direction: column; /* Stack the elements vertically */
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    text-align: center; /* Center the text inside the elements */
+    margin:40px;
+}
