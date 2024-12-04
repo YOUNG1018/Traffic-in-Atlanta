@@ -1,8 +1,10 @@
 body {
     font-family: 'Lato', sans-serif;
+    color: white;
     padding: 0;
     text-align: justify;
     line-height: 1.7; /* Enhanced readability */
+    background-color: rgba(0, 0, 0, 0.8);
 }
 h1{
       margin-left: 3%;
@@ -48,12 +50,24 @@ h2{
     gap: 20px; /* Spacing between rows */
     margin: 3%; /* Add margin around the container */
     padding: 30px; /* Inner padding for the container */
-    background-color: #ffffff; /* Light background for contrast */
+    background-color: black; /* Light background for contrast */
+    border-color: darkgray;
     border-radius: 8px; /* Rounded corners for a softer look */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     position: relative; /* Required for the pseudo-element */
 }
 
+.container1 {
+    display: flex;
+    flex-direction: column;
+    gap: 30px; /* Spacing between rows */
+    margin: 3%; /* Add margin around the container */
+    padding: 30px; /* Inner padding for the container */
+    background-color: hwb(0 0% 100% / 0.05); /* Light background for contrast */
+    border-radius: 8px; /* Rounded corners for a softer look */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    position: relative; /* Required for the pseudo-element */
+}
 
 /* 行样式 */
 .row {
