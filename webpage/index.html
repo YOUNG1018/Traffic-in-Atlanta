@@ -20,24 +20,25 @@
     <!-- Yishu -->
   <div class="intro">
     <p>
-      <span style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">Atlanta</span>, Georgia's
-      capital, home to over
-      <span style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">500,000</span> people, is
-      known for its challenging traffic driven by the rapid growth and the sprawling layout.
-    <p>
-      Major highways like <span style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">I-285,
+      <span style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">ATLANTA</span>,
+      Georgia's capital, home to over
+      <span style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:xx-large;">500,000</span> people, is
+      known for its challenging traffic. Major highways like <span
+        style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">I-285,
         I-75, I-85, and I-20</span> frequently experience congestion, especially during peak hours.
 
     <p>
       In 2022, the INRIX Global Traffic Scorecard placed Atlanta <span
-        style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">10th </span> nationally, with
+        style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">10th </span> across the entire
+      country, with
       drivers losing an average of <span
-        style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:x-large;">53 hours</span> to delays. The
+        style="font-family: 'Lato', sans-serif; font-weight: 1000; font-size:xx-large;">53 hours</span> to delays. The
       city's traffic congestion is a significant concern for residents, commuters, and policymakers.
     <p>
       This project aims to provide insights into Atlanta's traffic patterns, helping residents make informed decisions
       about
       their daily commutes and travel plans.
+    <p>
   </div>
 
 
@@ -157,6 +158,14 @@
         <h3>Road Capacity</h3>
         <p>Different sites have various capacity. This visualization helps you figure out which sites remains smooth
           even when large flow is going through, and which sites, on the contrast, suffered from traffic jams.</p>
+        <p>
+        <p>Note: The value of the Speed Index is computed with the following equation.
+        <p>
+          \( \frac{\text{Current Speed} - \text{Speed Limit}}{\text{Speed Limit}} \)
+        </p>
+        <p>
+          If Speed Index < 0, the traffic is slower than the speed limit. If Speed Index > 0, the traffic is faster than
+            the speed limit.
       </div>
       <!-- Right Column: Tableau Visualization -->
       <div style="width: 65%; text-align: center;">
@@ -212,15 +221,6 @@
         <p>Driving among heavy traffic or with large trucks around could be hard and stresssful. With these two
           factors, this visualization gives people a picture about if a site is more difficult to drive through, which
           could be helpful especially for new drivers.</p>
-        <p>(The color encodes the value of the Speed Index computed with the following equation.
-        <p>
-          \( \frac{\text{Current Speed} - \text{Speed Limit}}{\text{Speed Limit}} \)
-        </p>
-        <p>
-          If Speed Index < 0, the bar is <span style="color: red;">red</span> , meaning the traffic is slower than the
-            speed limit.
-            If Speed Index> 0, the bar is <span style="color: green;">green</span> , meaning the traffic is faster than
-            the speed limit.)
       </div>
       <!-- Right Column: Tableau Visualization -->
       <div style="width: 65%; text-align: center;">
@@ -504,6 +504,12 @@
     </div>
     <div class="row" id="2">
       <div class="text">
+        <p>The color encodes the value of the Speed Index.
+          <p>
+            If Speed Index < 0, the bar is <span style="color: red;">red</span> , meaning the traffic is slower than the
+              speed limit.
+              If Speed Index> 0, the bar is <span style="color: green;">green</span> , meaning the traffic is faster than
+              the speed limit.
         <p>
           This visualization shows the speed by hour of each day for the two sites.
           Each bar represents the Speed Index of the hour represented, with the length of the
@@ -512,19 +518,8 @@
           while the bottom half circle shows the Speed Index of the week of July.
           For site 121-5468, there are some dates with missing data.
         <p>
-          <<<<<<< HEAD In general, the traffic situation around her home at site 089-3323 is much better than that
-            around at site 121-5468, with most bars on the left chart showing green, while most days that have data at
-            site 121-5468 have red bars.=======\( \frac{\text{Current Speed} - \text{Speed Limit}}{\text{Speed Limit}}
-            \) </p>
-            <p>
-              If Speed Index < 0, the bar is red, meaning the traffic is slower than the speed limit. If Speed Index>
-                0,
-                the
-                bar is green, meaning the traffic is faster than the speed limit.
-                <p>
-                  In general, the traffic situation around her home at site 089-3323 is
-                  better than that around the airport at site 121-5468.
-                  >>>>>>> adfe839 (updated)
+          In general, the traffic situation around her home at site 089-3323 is
+          better than that around the airport at site 121-5468.
       </div>
       <div class="tableau">
         <div class='tableauPlaceholder' id='viz1733266635070' style='position: relative;width:80%;'><noscript><a
