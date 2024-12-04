@@ -1,6 +1,6 @@
 body {
     font-family: 'Lato', sans-serif;
-    color: white;
+    color: black;
     padding: 0;
     text-align: justify;
     line-height: 1.7; /* Enhanced readability */
@@ -8,6 +8,7 @@ body {
 }
 h1{
       margin-left: 3%;
+      color: white;
 }
 h2{
       margin-left: 3%;
@@ -50,8 +51,7 @@ h2{
     gap: 20px; /* Spacing between rows */
     margin: 3%; /* Add margin around the container */
     padding: 30px; /* Inner padding for the container */
-    background-color: black; /* Light background for contrast */
-    border-color: darkgray;
+    background-color: #f4f4f4; /* Light background for contrast */
     border-radius: 8px; /* Rounded corners for a softer look */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
     position: relative; /* Required for the pseudo-element */
