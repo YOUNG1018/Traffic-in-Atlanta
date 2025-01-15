@@ -1,6 +1,6 @@
 # Traffic in Atlanta
 
-- Google Drive: https://drive.google.com/drive/folders/1Ep0Gi-jidJxiuwjcPSi9Ttyz8AiaX2LV?usp=drive_link
+- Website: https://young1018.github.io/Traffic-in-Atlanta/
 
 ## How to embed the visualization into the webpage
 
